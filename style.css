@@ -286,6 +286,11 @@ main {
   position: relative;
 }
 
+.design {
+  height: 600px;
+  overflow: hidden;
+}
+
 .image-overlay {
   position: absolute;
   inset: 0;
@@ -310,6 +315,10 @@ main {
 
 .image-overlay p:hover {
   background: hsla(0, 100%, 100%, 0.4);
+}
+
+.email-design-section {
+  padding-top: 3rem;
 }
 
 /* Footer */
