@@ -89,7 +89,7 @@ main {
 
 .name {
   font-size: 3rem;
-  font-weight: 900;
+  font-weight: 600;
   margin: .5rem 0;
 }
 
@@ -179,6 +179,7 @@ main {
 
 .about-section h2 {
   font-size: 3rem;
+  font-weight: 600;
   margin: .5rem 0 1rem;
 }
 
